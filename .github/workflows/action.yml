@@ -7,4 +7,4 @@ jobs:
     - name: Pront gretting
       run: echo "hellow world"
     -name: Print good bye
-     run: echo "Done, bye"
+      run: echo "Done bye"
